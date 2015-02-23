@@ -1,0 +1,13 @@
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\bin\Release\InventoryDesktop.exe.config
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\bin\Release\AppDatabase2.sdf
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\bin\Release\InventoryDesktop.exe
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\bin\Release\InventoryDesktop.pdb
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\bin\Release\office.dll
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\obj\Release\InventoryDesktop.Form1.resources
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\obj\Release\InventoryDesktop.Properties.Resources.resources
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\obj\Release\InventoryDesktop.csproj.GenerateResource.Cache
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\obj\Release\InventoryDesktop.exe
+C:\Users\Dawg\Documents\Visual Studio 2008\Projects\InventoryDesktop\InventoryDesktop\obj\Release\InventoryDesktop.pdb
